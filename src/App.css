@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: center;
+  background-color: #7277a4;
+}
+
+.place {
+  margin: 4px;
+}
+
+.btn {
+  display: flex;
+ justify-content: space-evenly;
+}
+
+button {
+  background-color: #3815d7;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+  margin: 10px;
+}
